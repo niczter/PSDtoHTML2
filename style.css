@@ -1,0 +1,297 @@
+body {
+	font-family: 'Georgia', serif;
+	color: #505050;
+	background: #e2e2e2;
+}
+a{
+	text-decoration: none;
+}
+.enclosure{
+	background: #000000;
+	min-width: 315px;
+}
+
+
+
+/* HEADER-----------------------------------*/
+#header {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+#header1 {
+	font-size: 36px;
+	text-align: left;
+	color: #ffffff;
+}
+#header1 span{
+	font-size: 46px;
+
+}
+#header2 {
+	font-size: 12px;
+	text-decoration: none;
+	text-align: right;
+	padding-top: 25px;
+}
+#header2 a{
+	color: #666666;
+}
+
+#header3{
+	font-size: 12px;
+	text-decoration: none;
+	text-align: left;
+}
+#header4 {
+   text-align: right;
+}
+
+.wrapper {
+	background: #222222;
+    border:1px solid #000;
+    display:inline-block;
+    border-radius: 50px;
+    max-height: 25px;
+}
+
+.wrapper input{
+    background-color:transparent;
+    border:0;
+}
+.wrapper button {
+	color: white;
+    background-color:transparent;
+    border:0;
+}
+
+
+/* NAVBAR -----------------------------------*/
+.navbar {
+	border-top: 1px solid #333333;
+	border-bottom: 1px solid #333333;
+	min-height: 39px;
+	padding-top: 0;
+	padding-bottom: 0;
+	padding-left: 0.5rem;
+}
+.navbar-dark .navbar-nav .nav-link{
+	color: #fff;
+}
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link{
+	color: #ff9900; 
+}
+
+.nav-link{
+	font-size: 12px;
+	margin-left: .3rem;
+	margin-right: .3rem;
+}
+
+
+
+/* WELCOMEIPSUM----------------------------------*/
+
+#welcomeipsum {
+	text-align: center;
+}
+
+#welcomeipsum h1{
+	padding-top: 38px;
+	padding-bottom: 10px;
+	font-size: 46px;
+	color: #666666;
+}
+
+
+#welcomeipsum p{
+	font-style: italic;
+	padding-bottom: 30px;
+	font-size: 22px;
+	color: #505050;
+}
+
+
+
+
+/* FEATIMGS----------------------------------*/
+
+#featimg1 p{
+	font-size: 20px;
+	color: #ff9900;
+	background: #161616;
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#featimg1 img{
+	width: 100%;
+}
+
+#featimg2 p{
+	font-size: 20px;
+	color: #ff9900;
+	background: #161616;
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#featimg2 img{
+	width: 100%;
+}
+
+#featimg3 p{
+	font-size: 20px;
+	color: #ff9900;
+	background: #161616;
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#featimg3 img{
+	width: 100%;
+}
+
+/* FEATIMGS----------------------------------*/
+
+#cardbox {
+	border-left: 15px solid #000000;
+	border-right: 15px solid #000000;
+	background: white;
+	border-top: 40px solid #000000;
+	border-bottom: 40px solid #000000;
+
+}
+
+#cardbox1 {
+	padding: 15px;
+}
+#cardbox1 img{
+	width: 17%;
+}
+#cardbox1 span{
+	padding-left: 15px;
+	font-size: 22px;
+	color: #4a4a4a;
+}
+#cardbox1 p{
+	font-size: 12px;
+	color: #999999;
+}
+
+
+#cardbox2 {
+	padding: 15px;
+}
+#cardbox2 img{
+	width: 17%;
+}
+#cardbox2 span{
+	padding-left: 15px;
+	font-size: 22px;
+	color: #4a4a4a;
+}
+#cardbox2 p{
+	font-size: 12px;
+	color: #999999;
+}
+
+
+#cardbox3 {
+	padding: 15px;
+}
+#cardbox3 img{
+	width: 17%;
+}
+#cardbox3 span{
+	padding-left: 15px;
+	font-size: 22px;
+	color: #4a4a4a;
+}
+#cardbox3 p{
+	font-size: 12px;
+	color: #999999;
+}
+
+
+#cardbox4 {
+	padding: 15px;
+}
+#cardbox4 img{
+	width: 17%;
+}
+#cardbox4 span{
+	padding-left: 15px;
+	font-size: 22px;
+	color: #4a4a4a;
+}
+#cardbox4 p{
+	font-size: 12px;
+	color: #999999;
+}
+
+
+#cardbox5 {
+	padding: 15px;
+}
+#cardbox5 img{
+	width: 17%;
+}
+#cardbox5 span{
+	padding-left: 15px;
+	font-size: 22px;
+	color: #4a4a4a;
+}
+#cardbox5 p{
+	font-size: 12px;
+	color: #999999;
+}
+
+
+#cardbox6 {
+	padding: 15px;
+}
+#cardbox6 img{
+	width: 17%;
+}
+#cardbox6 span{
+	padding-left: 15px;
+	font-size: 22px;
+	color: #4a4a4a;
+}
+#cardbox6 p{
+	font-size: 12px;
+	color: #999999;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* MEDIA QUERIES---------------------------------*/
+@media (max-width: 767px){
+	.hideS {
+		display: none;
+	}
+	#header2 {
+		text-align: left;
+	}
+	#header4 {
+		text-align: left;
+	}
+}
